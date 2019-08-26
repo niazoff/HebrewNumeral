@@ -1,6 +1,6 @@
 import Foundation
 
-extension Int {
+public extension Int {
   /// Returns the Hebrew numeral represented by the receiver's value.
   ///
   /// Example: A value of 1 retuns א׳.
